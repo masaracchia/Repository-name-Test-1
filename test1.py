@@ -1,4 +1,5 @@
 a = 10
-B = 80
-C = a + B
-print(C)
+b = 80
+c = a + b
+print(c)
+print(type(a))
